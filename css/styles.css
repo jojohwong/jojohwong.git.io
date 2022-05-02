@@ -11290,3 +11290,7 @@ body {
   background: url("https://dummyimage.com/1920x1080/dee2e6/6c757d.jpg") no-repeat center center fixed;
   background-size: cover;
 }
+
+body {
+  background-image: url('../img/Leia.png');
+}
